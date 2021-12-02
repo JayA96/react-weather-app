@@ -14,7 +14,6 @@ export function getCurrentLocation() {
             resolve(coordinates);
         }
         function errorCallback(error) {
-            console.log(error);
             reject(error)
         }
         navigator.geolocation.getCurrentPosition(successCallback, errorCallback);

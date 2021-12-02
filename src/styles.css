@@ -221,4 +221,8 @@ input[type="search"]::-webkit-search-cancel-button {
         line-height: 35px;
         height: 35px;
     }
+
+    .alert {
+        width: 75vw;
+    }
 }

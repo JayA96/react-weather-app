@@ -16,7 +16,7 @@ import rain from './assets/animated/rain.svg';
 import drizzle from './assets/animated/drizzle.svg';
 import partlycloudynightsmoke from './assets/animated/partly-cloudy-night-smoke.svg';
 import mist from './assets/animated/mist.svg';
-import overcastday from './assets/animated/overcast-day.svg';
+import overcast from './assets/animated/overcast.svg';
 import partlycloudyday from './assets/animated/partly-cloudy-day.svg';
 import overcastnight from './assets/animated/overcast-night.svg';
 import fognight from './assets/animated/fog-night.svg';
@@ -48,7 +48,7 @@ rain,
 drizzle,
 partlycloudynightsmoke,
 mist,
-overcastday,
+overcast,
 partlycloudyday,
 overcastnight,
 fognight,
